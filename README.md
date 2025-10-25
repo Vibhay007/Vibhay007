@@ -14,7 +14,7 @@ From elegant UIs to powerful backends — I build with scalability in mind.
 
 ### 🌐 Connect with me  
 <p align="center">
-  <a href="https://linkedin.com/in/vibha-yadav" target="_blank">
+  <a href="https://www.linkedin.com/in/vibha-yadav-802b82347/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
