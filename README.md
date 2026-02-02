@@ -22,13 +22,10 @@ From elegant UIs to powerful backends — I build with scalability in mind.
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vibhay007&show_icons=true&theme=tokyonight" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhay007&layout=compact&theme=tokyonight" />
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vibhay007&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vibhay007&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhay007&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 <h3 align="center">✨ “Code. Create. Innovate.” ✨</h3>
