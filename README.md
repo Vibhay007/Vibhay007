@@ -1,5 +1,7 @@
+
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vibha+Yadav;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vibha+Yadav;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast"/>
 </p>
 
 <h3 align="center">
@@ -18,18 +20,32 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="mailto:vibha0700@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Vibhay007">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
+<a href="https://vibha-portfolio-beta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 <br>
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+> ## "Failing in different ways until no other way to fail remains." ##
+
+</p>
+
+
 
 ---
 
