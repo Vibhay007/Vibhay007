@@ -15,6 +15,10 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vibhay007&label=Visitors&color=0e75b6&style=for-the-badge" />
+</p>
+
 ---
 
 # 🌐 Connect With Me
