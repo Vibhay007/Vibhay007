@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a0533&height=200&section=header&text=Vibha%20Yadav&fontSize=60&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18&descColor=a855f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:4a0e8f&height=200&section=header&text=Vibha%20Yadav&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=c084fc&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vibha+Yadav;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vibha+Yadav;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast"/>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6ef0545-d731-4c54-9d27-f0458ff7f676" alt="Lord Shiva" width="400" height="430"/>
 </p>
 
-<h3 align="center" style="color:#c084fc;">
+<h3 align="center">
 💻 Full Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
 <p align="center">
@@ -17,13 +17,12 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 </p>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vibhay007&label=Visitors&color=6d28d9&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Vibhay007&label=Visitors&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:000000&height=80&section=header&text=🌐%20Connect%20With%20Me&fontSize=30&fontColor=c084fc&animation=twinkling" width="100%"/>
-
+# 🌐 Connect With Me
 <p align="center">
 <a href="mailto:vibha0700@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -41,8 +40,7 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:000000&height=80&section=header&text=💬%20Quote&fontSize=30&fontColor=c084fc&animation=twinkling" width="100%"/>
-
+# 💬 Quote
 <p align="center">
 
 > ## "Failing in different ways until no other way to fail remains." ##
@@ -51,8 +49,7 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:000000&height=80&section=header&text=⚡%20Languages%2C%20Tools%20%26%20Technologies&fontSize=30&fontColor=c084fc&animation=twinkling" width="100%"/>
-
+# ⚡ Languages, Tools & Technologies
 <table align="center">
 <tr>
 <td><b>Frontend</b></td>
@@ -113,8 +110,7 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:000000&height=80&section=header&text=💻%20Programming&fontSize=30&fontColor=c084fc&animation=twinkling" width="100%"/>
-
+# 💻 Programming
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Vibha_07?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
@@ -122,8 +118,7 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:000000&height=80&section=header&text=📊%20GitHub%20Statistics&fontSize=30&fontColor=c084fc&animation=twinkling" width="100%"/>
-
+# 📊 GitHub Statistics
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vibhay007&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhay007&theme=tokyonight&hide_border=true"/>
@@ -135,42 +130,15 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:000000&height=80&section=header&text=📈%20Contribution%20Graph&fontSize=30&fontColor=c084fc&animation=twinkling" width="100%"/>
-
+# 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhay007&theme=tokyo-night"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:000000&height=80&section=header&text=🎮%20Play%20Tic%20Tac%20Toe%20With%20Me!&fontSize=30&fontColor=c084fc&animation=twinkling" width="100%"/>
-
-<p align="center">
-<b>Click any cell to make your move! You are ❌</b>
-</p>
-
-<!-- TICTACTOE_BOARD_START -->
-<p align="center">
-
-| | 1 | 2 | 3 |
-|:---:|:---:|:---:|:---:|
-| **A** | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CA1&body=Just+click+Submit!) | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CA2&body=Just+click+Submit!) | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CA3&body=Just+click+Submit!) |
-| **B** | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CB1&body=Just+click+Submit!) | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CB2&body=Just+click+Submit!) | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CB3&body=Just+click+Submit!) |
-| **C** | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CC1&body=Just+click+Submit!) | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CC2&body=Just+click+Submit!) | [➕](https://github.com/Vibhay007/Vibhay007/issues/new?title=tictactoe%7CC3&body=Just+click+Submit!) |
-
-</p>
-<!-- TICTACTOE_BOARD_END -->
-
-<p align="center">
-<img src="https://img.shields.io/badge/You%20Are-❌-red?style=for-the-badge"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/I%20Am-⭕-purple?style=for-the-badge"/>
-</p>
-
----
-
-<h3 align="center" style="color:#c084fc;">
+<h3 align="center">
 ✨ Code • Build • Innovate ✨
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:0a0a0a,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0e8f,50:1a1a2e,100:0D0D0D&height=120&section=footer&animation=twinkling" width="100%"/>
