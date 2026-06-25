@@ -39,7 +39,7 @@ CGPA: 7.94
 
 # 📄 Resume
 <p align="center">
-<a href="https://vibha-portfolio-beta.vercel.app/resume.pdf](https://vibha-portfolio-beta.vercel.app/assets/Vibha_final-CdkQa1rd.pdf">
+<a href="https://vibha-portfolio-beta.vercel.app/assets/Vibha_final-CdkQa1rd.pdf">
 <img src="https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </a>
 </p>
