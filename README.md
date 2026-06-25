@@ -22,6 +22,31 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 
 ---
 
+# 🎓 Education
+<table align="center">
+<tr>
+<td align="center">🏛️</td>
+<td>
+<b>National Institute of Technology, Hamirpur</b><br/>
+B.Tech in Mechanical Engineering · 2024 – 2028<br/>
+CGPA: 7.94
+</td>
+</tr>
+</table>
+<br>
+
+---
+
+# 📄 Resume
+<p align="center">
+<a href="https://vibha-portfolio-beta.vercel.app/resume.pdf">
+<img src="https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white"/>
+</a>
+</p>
+<br>
+
+---
+
 # 🌐 Connect With Me
 <p align="center">
 <a href="mailto:vibha0700@gmail.com">
@@ -49,70 +74,101 @@ From elegant user interfaces to powerful backend systems, I love creating comple
 
 ---
 
-# ⚡ Languages, Tools & Technologies
-<table align="center">
+# ⚡ Skills & Proficiency
+
+<table align="center" width="100%">
 <tr>
-<td><b>Frontend</b></td>
+<td width="140"><img src="https://skillicons.dev/icons?i=cpp" height="28"/> C++</td>
 <td>
-<img src="https://skillicons.dev/icons?i=html" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redux" height="40"/>
+
+![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
 </td>
 </tr>
 <tr>
-<td><b>Languages</b></td>
+<td width="140"><img src="https://skillicons.dev/icons?i=javascript" height="28"/> JavaScript</td>
 <td>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
+
+![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
 </td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
+<td width="140"><img src="https://skillicons.dev/icons?i=react" height="28"/> React.js</td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="40"/>
+
+![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
 </td>
 </tr>
 <tr>
-<td><b>Databases</b></td>
+<td width="140"><img src="https://skillicons.dev/icons?i=nodejs" height="28"/> Node.js</td>
 <td>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+
+![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
 </td>
 </tr>
 <tr>
-<td><b>DevOps & Tools</b></td>
+<td width="140"><img src="https://skillicons.dev/icons?i=express" height="28"/> Express.js</td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+
+![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
 </td>
 </tr>
 <tr>
-<td><b>API Testing</b></td>
+<td width="140"><img src="https://skillicons.dev/icons?i=mongodb" height="28"/> MongoDB</td>
 <td>
-<img src="https://skillicons.dev/icons?i=postman" height="40"/>
+
+![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
+</td>
+</tr>
+<tr>
+<td width="140"><img src="https://skillicons.dev/icons?i=python" height="28"/> Python</td>
+<td>
+
+![](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
+</td>
+</tr>
+<tr>
+<td width="140"><img src="https://skillicons.dev/icons?i=docker" height="28"/> Docker</td>
+<td>
+
+![](https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
+</td>
+</tr>
+<tr>
+<td width="140"><img src="https://skillicons.dev/icons?i=git" height="28"/> Git & GitHub</td>
+<td>
+
+![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=58A6FF)
 </td>
 </tr>
 </table>
 <br>
 
+
+<br>
+
+---
+
+# 🛠️ Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,redux,vscode,postman" height="40"/>
+</p>
+<br>
+
 ---
 
 # 💻 Programming
+
+### LeetCode
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Vibha_07?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+<br>
+
+### Codeforces
+<p align="center">
+<a href="https://codeforces.com/profile/Vibha_07">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vibha_07&theme=tokyonight"/>
+</a>
 </p>
 <br>
 
